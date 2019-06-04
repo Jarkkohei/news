@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+News course project from Udemy - Dart and Flutter: The Complete Developer's Guide course 
 
 ## Getting Started
 
